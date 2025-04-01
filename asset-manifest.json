@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/business-contact-me/static/css/main.9f088a99.css",
+    "main.js": "/business-contact-me/static/js/main.b4bb938c.js",
+    "static/js/453.142e5667.chunk.js": "/business-contact-me/static/js/453.142e5667.chunk.js",
+    "index.html": "/business-contact-me/index.html",
+    "main.9f088a99.css.map": "/business-contact-me/static/css/main.9f088a99.css.map",
+    "main.b4bb938c.js.map": "/business-contact-me/static/js/main.b4bb938c.js.map",
+    "453.142e5667.chunk.js.map": "/business-contact-me/static/js/453.142e5667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f088a99.css",
+    "static/js/main.b4bb938c.js"
+  ]
+}
